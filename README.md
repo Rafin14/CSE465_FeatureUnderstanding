@@ -1,7 +1,5 @@
 # CSE465_FeatureUnderstanding
 
-# CSE465_FeatureUnderstanding
-
 ## Project Overview
 This project explores feature hierarchies in deep learning models, specifically using ResNet-18 on the CIFAR-10 dataset. It includes visualizations of feature maps, embeddings, and projections using techniques like t-SNE and UMAP.
 
